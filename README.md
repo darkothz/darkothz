@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+
+[![Currently learning these languages:](https://skills.thijs.gg/icons?i=js,html,css,js)](https://skills.thijs.gg)<!--
 **darkothz/darkothz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
